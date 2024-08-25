@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://moe-counter.glitch.me/get/@logging4J?theme=gelbooru" />
+  <img src="https://counter.katomegumi.net/get/@l4j?theme=gelbooru" />
 </p>
